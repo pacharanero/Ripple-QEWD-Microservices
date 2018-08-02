@@ -1,5 +1,5 @@
 {
-  "authentication_service": "http://192.168.1.193:8081",
-  "mpi_service": "http://192.168.1.193:8082",
-  "cdr_openehr_service": "http://192.168.1.193:8083"
+  "authentication_service": "http://192.168.1.234:8001",
+  "mpi_service": "http://192.168.1.234:8002",
+  "cdr_openehr_service": "http://192.168.1.234:8003"
 }
